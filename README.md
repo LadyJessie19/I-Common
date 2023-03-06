@@ -46,7 +46,7 @@ Throughout the `i-common.js` importation in the HTML file, you can add the code 
 
 ![i-common1](https://user-images.githubusercontent.com/106931747/222996809-80d5f740-15ff-4350-8340-107d4b3126f7.PNG)
 
-## **REMEMBER**
+## **REMEMBER!**
 - Create an object inside the object `sections`;
 - Each code line needs to be wrapped in simple quotes(' ');
 - Each code line needs to end with _plus sign_ (+);
