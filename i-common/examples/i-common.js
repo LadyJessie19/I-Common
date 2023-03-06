@@ -20,7 +20,7 @@ sections.third =
 '<div>'+
   '<input type="text">'+
   '<button>Send</button>'+
-  '</div>';
+'</div>';
 sections.fourth =
 '<div>'+
   '<h3>Groceries</h3>'+
