@@ -140,7 +140,7 @@ const injectCommonFromTag = (sIdTarget, sIdConfig, sAttribSec, sAttribVar) => {
  * » It's usually the same as the script (see below for an example).
  */
 const icIdConfig = "ar:ic-config";
-
+/*  */
 /**
  * » Configuration attribute: `Target`.
  * » Default target element's id, optional.

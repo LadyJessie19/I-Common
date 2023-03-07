@@ -48,7 +48,7 @@ Throughout the `i-common.js` importation in the HTML file, you can add the code 
 - Each code line needs to end with _plus sign_ (+);
 - At the end of the HTML code don't forget to put the _semicolon_ (;);
 
-## How to Use The Script File Import
+## How to Use The Script File Import:
 
 Example:
 

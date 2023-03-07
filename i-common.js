@@ -8,7 +8,7 @@
 
 // 'Global' sections
 const sections = {};
-
+/*  */
 /**
  * @typedef {Object<string, string|number>} IcVariables
  */
