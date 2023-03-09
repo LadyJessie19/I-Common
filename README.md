@@ -48,7 +48,7 @@ Throughout the `i-common.js` importation in the HTML file, you can add the code 
 
 ## **REMEMBER!**
 - Create an object inside the object `sections`;
-- Each code line needs to be wrapped in simple quotes(' ');
+- Each code line needs to be wrapped in _simple quotes_(' ');
 - Each code line needs to end with _plus sign_ (+);
 - At the end of the HTML code don't forget the _semicolon_ (;);
 
