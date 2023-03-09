@@ -50,7 +50,7 @@ Throughout the `i-common.js` importation in the HTML file, you can add the code 
 - Create an object inside the object `sections`;
 - Each code line needs to be wrapped in simple quotes(' ');
 - Each code line needs to end with _plus sign_ (+);
-- At the end of the HTML code don't forget to put the _semicolon_ (;);
+- At the end of the HTML code don't forget the _semicolon_ (;);
 
 ## How to Use The Script File Import:
 
