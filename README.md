@@ -62,7 +62,7 @@ Example:
 
 2. Set the id `ar:ic-config` to the script file;
 
-3. Set the `data-ar:ic-sec` attribute to which HTML section _(the object that you created in the section at the i-common.js)_ you want to use.
+3. Set the `data-ar:ic-sec` attribute with which HTML section _(the object that you created in the section at the i-common.js)_ you want to use.
 
 4. _There it goes!_ The reusable HTML will be placed in the `<div>` you seated with the id `ar:ic-target`.
 
